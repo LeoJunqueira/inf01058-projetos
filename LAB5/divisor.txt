@@ -1,0 +1,10 @@
+divisor
+
+Consumo de Área:
+Total pins: 4
+Total logic elements: 50
+
+Atraso crítico: 
+Propagation delay: 5277 ns
+Portas: SDQ
+Transição: Fall,RISE
